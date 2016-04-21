@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="docentims.howdoi"
+      interface="docentims.howdoi.interfaces.IDocentimsHowdoiLayer"
+      />
+</layers>
